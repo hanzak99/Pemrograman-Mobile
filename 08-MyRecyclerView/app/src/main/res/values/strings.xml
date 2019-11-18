@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="hmj_name">HMJ Polines</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>HMJ Elektro</item>
+        <item>HMJ Sipil</item>
+        <item>HMJ Mesin</item>
+        <item>HMJ Akuntansi</item>
+        <item>HMJ Administrasi Bisnis</item>
+        <item>UKM PCC</item>
+        <item>UKM KONSEP</item>
+        <item>UKM PECC</item>
+        <item>UKM JAZIRAH</item>
+        <item>UKM WAPALHI</item>
+        <item>UKM PP</item>
+        <item>UKM New PLBS FM</item>
+        <item>RESIMEN MAHASISWA</item>
+        <item>LPM DIMENSI</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Himpunan Mahasiswa Jurusan Teknik Elektro adalah salah satu Himpun
+an Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organ
+isasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tek
+nik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.
+        </item>
+        <item>
+            Himpunan Mahasiswa Jurusan Teknik Sipil adalah salah satu Himpunan
+ Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organis
+asi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tekni
+k Sipil untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.
+        </item>
+        <item>
+            Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu Himpunan
+ Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organis
+asi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tekni
+k Mesin untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.
+        </item>
+        <item>
+            Himpunan Mahasiswa Jurusan Akutansi adalah salah satu Himpunan Mah
+asiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi
+kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan akutansi
+untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.
+        </item>
+        <item>
+            Himpunan Mahasiswa Jurusan Administrasi Bisnis adalah salah satu H
+impunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan
+organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Administrasi Bisnis
+untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.
+        </item>
+        <item>
+            Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disin
+gkat UKM PCC, merupakan organisasi di Politeknik Negeri Semarang yang bergerak d
+i bidang informasi dan teknologi. UKM Polytechnic Computer Club secara eksplisit
+ terbagi menjadi dua bagian inti, yaitu Workshop dan Organisasi.
+        </item>
+        <item>
+            UKM Komunitas Seni Polines merupakan satu-
+satunya unit kegiatan mahasiswa di Politeknik Negeri Semarang yang bergerak di
+bidang Kesenian. Nama UKM Komunitas Seni Polines diresmikan pada tanggal 21 Juni
+2003. Fungsi UKM KoNSeP adalah sebagai satu-satunya sarana pembangunan dan penyaluran minat dan bakat
+Mahasiswa Polines dalam bidang seni dan berorganisasi.
+        </item>
+        <item>
+            UKM Polytechnic English Conversation Club merupakan unit kegiatan mahasiswa yang bertujuan
+            untuk meningkatkan kemampuan penggunaan keterampilan berbahasa Inggris bagi anggota aktif
+            pada khususnya mahasiswa Politeknik Negeri Semarang pada umumnya. Berdiri sejak 10 Oktober 1994
+        </item>
+        <item>
+            UKM JAZIRAH adalah Organisasi kemahasiswaan Politeknik Negeri Semarang yang bergerak di
+Civitas Akademika Politeknik Negeri Semarang khususnya dan masyarakat umumnya dalam bidang dakwah Islam,
+amar ma’ruf nahi mungkar, beraqidah Islam dan berlandaskan Al-Qur’an dan As-Sunnah
+        </item>
+        <item>
+            UKM WAPALHI merupakan sebuah organisasi Pecinta Alam yang bergerak dalam bidang Olahraga Alam Bebas dan keperdulian terhadap lingkungan.
+WAPALHI berdiri pada tanggal 4 Desember 1983 dengan nama awal PALAPOLI (Pecinta Alam POLITEKNIK).
+Setelah beberapa tahun berdiri, PALAPOLI berganti nama menjadi WALHI (Wahana lingkungan Hidup) pada kisaran tahun 1983 – 1984,
+ternyata nama WALHI ini ada kesamaan nama dengan WALHI pusat.
+Akhirnya pada tahun 1993 sepakat bahwa nama WALHI berganti nama menjadi WAPALHI (Wahana Pecinta Lingkungan Hidup)
+        </item>
+        <item>
+            UKM PP(Pengembangan Pengetahuan) merupakan salah satu Unit Kegiatan Mahasiswa di Politeknik Negeri Semarang yang sudah cukup berumur.
+Pada mulanya UKM Pengembangan Pengetahuan mengelola kegiatan yang bersifat umum dalam artian tidak meninggalkan sisi-sisi keilmuan, misalnya acara-acara seminardan lain sebagainya.
+Namun UKM Pengembangan Pengetahuan juga memiliki kegiatan yang spesifik di antaranya adalah board casting dan komputer.
+        </item>
+        <item>
+            UKM New PLBS FM Berdiri pada 13 Februari 1989 dengan nama Polytehnic Limited Broadcasting System (PLBS FM).
+Mulai saat itu UKM Radio Kampus PLBS FM mulai mengudara dengan peralatan yang sederhana mencoba memberikan warna baru di dalam kampus Politeknik Negeri Semarang khususnya.
+Dengan tag line sebagai "Campus Info and Music Line", PLBS FM berusaha menjadi sumber info tentang dunia kampus khususnya Politeknik Negeri Semarang,
+selain itu juga menjadi sebuah warna baru dalam dunia radio non komersil.
+        </item>
+        <item>
+            RESIMEN MAHASISWA Satuan 950 Pati Geni Politeknik Negeri Semarang, yang bermarkas komando (MAKO) di Kompleks Kampus Polines Tembalang, merupakan salah satu Unit Kegiatan Mahasiswa (UKM) yang ada di Polines.
+Pada awal berdirinya menginduk ke Satuan 901 Universitas Diponegoro (Satuan 901 Kompi C) karena pada waktu itu Polines masih Politeknik Universitas Diponegoro dan anggotanya masih sedikit,
+dengan berjalannya waktu dan kesiapan untuk menjadi satuan dibentuklah satuan 950. pada saat krisis moneter dan krisis politik era 96-98an (Reformasi), nama Pati Geni mulai digunakan.
+        </item>
+        <item>
+            Dimensi selaku LPM berusaha menjalankan perannya sebagai pers yang dituntut independen dan tidak menurut pada institusi atau siapa saja yang hendak menyetir langkah Dimensi.
+Dimensi akan menjadi lembaga yang independen namun tetap dalam koridor yang tepat sesuai dengan UU RI No 40 tahun 1999 tentang Pers serta Kode Etik Jurnalistik. Dimensi akan bergerak sesuai idiologi sebagai Pers Mahasiswa.
+Dimensi akan terus berusaha menjadi mata, telinga dan tangan dalam hal memberikan informasi, terkhusus bagi mahasiswa Politeknik Negeri Semarang.
+        </item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/QxdcLRBk/hme.jpg</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+        <item>https://i.postimg.cc/v8Lq0D9d/pecc.jpg</item>
+        <item>https://i.postimg.cc/MKrnvdQT/jazirah.jpg</item>
+        <item>https://i.postimg.cc/gJdJf7fM/wapalhi.jpg</item>
+        <item>https://i.postimg.cc/MHpGGQZV/PP.png</item>
+        <item>https://i.postimg.cc/WzY1q1tK/PLBS.png</item>
+        <item>https://i.postimg.cc/NGdMzpb4/menwa.jpg</item>
+        <item>https://i.postimg.cc/J4tnVZ2W/LPM.jpg</item>
+    </string-array>
+</resources>
