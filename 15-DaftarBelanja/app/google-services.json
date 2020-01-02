@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266587636158",
+    "firebase_url": "https://daftar-belanja-harian-edcc6.firebaseio.com",
+    "project_id": "daftar-belanja-harian-edcc6",
+    "storage_bucket": "daftar-belanja-harian-edcc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266587636158:android:b944868a012f50dc4ff9ef",
+        "android_client_info": {
+          "package_name": "com.hanzpro.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266587636158-q5f7q108u6qkcch11brtluch9cd6mkp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWgx1Qvz2pOxk94gs8HCKw-UobBz6lRto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266587636158-q5f7q108u6qkcch11brtluch9cd6mkp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
