@@ -19,6 +19,8 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         btnregister.setOnClickListener(this);
 
     }
+
+    @Override
     public void onClick (View view){
         switch (view.getId()) {
             case R.id.BtnRegister:

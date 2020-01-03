@@ -104,14 +104,14 @@
                             android:layout_height="50dp"
                             android:layout_marginTop="@dimen/activity_vertical_layout"
                             android:layout_marginRight="20dp"
-                            android:src="@drawable/google" />
+                            android:src="@drawable/in" />
 
                         <ImageView
                             android:layout_width="50dp"
                             android:layout_height="50dp"
                             android:layout_marginTop="@dimen/activity_vertical_layout"
                             android:layout_marginRight="20dp"
-                            android:src="@drawable/twitter" />
+                            android:src="@drawable/tw" />
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
