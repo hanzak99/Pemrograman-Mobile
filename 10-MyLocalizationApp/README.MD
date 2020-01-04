@@ -1,0 +1,8 @@
+![SS_France1](https://user-images.githubusercontent.com/54885559/71768353-e8044980-2f47-11ea-846e-e8013d5a7b52.png)
+![SS_France2](https://user-images.githubusercontent.com/54885559/71768354-e89ce000-2f47-11ea-8764-cb428e9c41ce.png)
+![SS_Indonesia1](https://user-images.githubusercontent.com/54885559/71768355-e89ce000-2f47-11ea-9e46-f42ee32fe79c.png)
+![SS_Indonesia2](https://user-images.githubusercontent.com/54885559/71768356-e9357680-2f47-11ea-9093-1db22b5a3e6a.png)
+![SS_Spain1](https://user-images.githubusercontent.com/54885559/71768357-e9357680-2f47-11ea-967a-3103846aad40.png)
+![SS_Spain2](https://user-images.githubusercontent.com/54885559/71768358-e9ce0d00-2f47-11ea-8e2d-24237e0d93ee.png)
+![SS_English1](https://user-images.githubusercontent.com/54885559/71768360-ea66a380-2f47-11ea-803a-14c0c267a3f7.png)
+![SS_English2](https://user-images.githubusercontent.com/54885559/71768361-ea66a380-2f47-11ea-9e8c-cf5e72ffa3ab.png)
